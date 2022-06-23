@@ -1,0 +1,17 @@
+tensorflow-macos
+tensorflow-metal
+numpy
+scipy
+scikit-image
+scikit-learn
+flask
+# tensorflow
+opencv-python-headless
+boto3
+requests
+shapely
+pillow
+Cython
+networkx
+joblib
+waitress
